@@ -17,6 +17,6 @@
 
 - NodeJs
 - Express
-- Moongose
+- Mongoose
 - S3-AmazonWebService
 - API Gateway-AmazonWebService
