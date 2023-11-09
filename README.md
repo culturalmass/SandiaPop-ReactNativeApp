@@ -1,17 +1,19 @@
 # SandiaPop ReactNativeAPP
 
-    Demo App for posting item to sell, Upload your images to the server and get listed in the home screen.
+    Demo App for posting item to sell,
+    Upload your images to the server
+    and get listed in the home screen.
 
-#Using:
+## Using:
 
-## Client Side
+### Client Side
 
 - Expo
 - React Native
 - Typescript
 - UseReducer
 
-## Server Side
+### Server Side
 
 - NodeJs
 - Express

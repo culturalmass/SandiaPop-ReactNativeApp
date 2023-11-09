@@ -10,8 +10,9 @@ npm-debug.*
 *.orig.*
 web-build/
 *.env
-
-
+client/yarn-error.log
+server/.gitignore
+server/yarn.lock
 
 # macOS
 .DS_Store
